@@ -1,0 +1,151 @@
+body{
+  color:#40514e;
+  background-color:white;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+span{
+  text-decoration:underline;
+}
+h1{
+  color:  #222831;
+  font-family: 'Dancing Script', cursive ;
+  font-size: 90px;
+  margin: 50px 0 0 0;
+}
+h2{
+
+  font-size: 40px;
+}
+h3{
+  color:#71c9ce;
+}
+
+.h{
+  padding-top:40px;
+}
+
+
+
+
+hr{
+  height: 0;
+  height:5px;
+  width:5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #112d4e;
+  margin-top: 50px;
+}
+
+
+.top-container{
+
+  background-color:  #c2e8ce;
+  position: relative;
+  padding:100px;
+  line-height: 200%;
+}
+.middle-container{
+  margin:100px auto;
+  background-color: white;
+
+}
+.bottom-cloud{
+  position:absolute;
+  top:300px;
+  left:300px;
+
+}
+.top-cloud{
+  position:absolute;
+  top:40px;
+  right:300px;
+}
+.chilli-img{
+  width:25%;
+  float:right;
+  margin-left:0;
+}
+.design-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 30px;
+  margin-top: 0;
+}
+.d{
+  padding-left: 230px;
+  padding-bottom: 0;
+  margin:0;
+
+}
+.bottom-container{
+  background-color: #96d1c7;
+  padding:50px 0 20px;
+  margin-bottom:0 ;
+  border: 0;
+}
+a{
+  color:#11999e;
+  font-family:'Josefin Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration:none;
+}
+a:hover{
+  color:#eaf6f6;
+}
+
+.pro{
+  font-size:30px;
+  padding-left:50px;
+}
+.btn{
+  background-color:#08d9d6;
+	border-radius:31px;
+	border:1px solid ;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:8px 15px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+  margin-top: 50px;
+  margin-bottom: 75px;
+}
+.btn:hover {
+	background-color:#40514e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+
+  font-size:0.75rem;
+  padding:20px 0;
+}
+.rr{
+  margin-bottom:75px;
+}
+.hh{
+  margin-bottom: 75px;
+}
+
+.my-pic{
+  width:200px;
+}
+.design-img{
+width:200px;
+}
